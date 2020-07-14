@@ -57,13 +57,12 @@ Here's what I'm up to lately:
 
 <hr>
 
-### My Blog ###
-<a href="https://linearlyspanned.wordpress.com/">Linearly Spanned</a> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
-
+### My Blog
+## <a href="https://linearlyspanned.wordpress.com/">Linearly Spanned</a> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 <hr>
 
-### Let's connect maybe...to share ideas ? 🎉
+### Let's connect to share ideas 🎉
 
 
 <a href="https://www.linkedin.com/in/san-sequeira-3b366b1aa/">
