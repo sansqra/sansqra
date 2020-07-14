@@ -58,8 +58,7 @@ Here's what I'm up to lately:
 <hr>
 
 ### My Blog ###
-
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" size=30px>
+<a href="https://linearlyspanned.wordpress.com/">Linearly Spanned</a> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
 
 
 <hr>
