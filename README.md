@@ -2,7 +2,7 @@
 
 I'm a final year Computer Science undergad. Obsessed about all things Machine Learning and AI 🤖
 
-I do spend my time reading papers, and sometimes dreaming up architectures (but still a noob at all this). 
+I do spend my time writing code, reading papers, and sometimes dreaming up architectures (but still a noob at all this). 
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" size=190px>
 
@@ -57,8 +57,22 @@ Here's what I'm up to lately:
 
 <hr>
 
+### My Blog ###
+
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" size=30px>
+
+
+<hr>
+
 ### Let's connect maybe...to share ideas ? 🎉
 
-<a href="https://www.linkedin.com/in/san-sequeira-3b366b1aa/"><img src="https://www.linkedin.com/in/san-sequeira-3b366b1aa/" size="30px"></a>
 
-
+<a href="https://www.linkedin.com/in/san-sequeira-3b366b1aa/">
+    <img align="left" alt="Jaisal Shah | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+ </a>
+<a href="https://twitter.com/SanLukeSqra">
+    <img align="left" alt="Jaisal Shah | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+  </a>
+  <a href="mailto:sanlukesqra@gmail.com">
+    <img align="left" alt="Jaisal Shah | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+  </a>
