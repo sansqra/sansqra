@@ -8,6 +8,8 @@ I do spend my time writing code, reading papers, and sometimes dreaming up archi
 
 Besides that I've scattered myself in other things, like Maths, Physics and Philosophy, 😉 and would love to learn more and have conversations on that.
 
+⚡ Fun fact: I get very obsessive about the things that pique my interest
+
 ```
 Stuff_I_know_and_have_done = {
  'Languages': ['Python', 'Java', 'C++', 'C', 'Dart', 'Go', 'C#', ....more to come], 🤓
@@ -53,7 +55,7 @@ You can find them here: <br>
 
 Here's what I'm up to lately:
 - 🌱 I’m currently learning Tensor Calculus
-- ⚡ Fun fact: I get very obsessive about the things that pique my interest
+
 
 <hr>
 
