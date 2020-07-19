@@ -2,7 +2,7 @@
 
 I'm a final year Computer Science undergad. Obsessed about all things Machine Learning and AI 🤖
 
-I do spend my time writing code, reading papers, and sometimes dreaming up architectures (but still a noob at all this). 
+I do spend my time writing code, reading reserach papers, and sometimes dreaming up architectures (but still a noob at all this). 
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" size=190px>
 
