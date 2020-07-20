@@ -70,11 +70,11 @@ Here's what I'm up to lately:
 
 
 <a href="https://www.linkedin.com/in/san-sequeira-3b366b1aa/">
-    <img align="left" alt="Jaisal Shah | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+    <img align="left" alt="San Sequeira | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
  </a>
 <a href="https://twitter.com/SanLukeSqra">
-    <img align="left" alt="Jaisal Shah | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+    <img align="left" alt="San Sequeira | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
   </a>
   <a href="mailto:sanlukesqra@gmail.com">
-    <img align="left" alt="Jaisal Shah | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+    <img align="left" alt="San Sequeira | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
