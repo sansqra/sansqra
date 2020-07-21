@@ -11,7 +11,7 @@ Besides that I've scattered myself in other things, like Maths, Physics and Phil
 ⚡ Fun fact: I get very obsessive about the things that pique my interest
 
 ```
-Stuff_I_know_and_have_done = {
+KNOWLEDGE_BASE = {
  'Languages': ['Python', 'Java', 'C++', 'C', 'Dart', 'Go', 'C#', ....more to come], 🤓
  
  'Frameworks & Libraries': [ 'Pytorch', 'Keras', 'Flask', 'Django', 'Flutter', 'Android',
@@ -37,8 +37,8 @@ Stuff_I_know_and_have_done = {
     },
     {
       'Name': 'Airtable Auto',
-      'Description': 'Automates worksheet downloads and pdf creation using Airtable's python wrapper and API'
-      'Tech used': ['Python'],
+      'Description': 'Orlem Confirmation worksheet automation'
+      'Tech used': ['Python', 'google-api', 'gmaill-api', 'pydrive3'],
       'Target platforms': 'Platform independent (Provided python is installed)',
       'Status': 'Active'
       'url': 'https://orlem-confo.github.io',
