@@ -2,7 +2,7 @@
 
 I'm a final year Computer Science undergad. Obsessed about all things Machine Learning and AI 🤖
 
-I do spend my time writing code, reading reserach papers, and sometimes dreaming up architectures (but still a noob at all this). 
+I do spend my time writing code, reading reserach papers, and sometimes dreaming up ML architectures (but still a noob at all this). 
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" size=190px>
 
@@ -34,6 +34,14 @@ KNOWLEDGE_BASE = {
       'Status': 'Active',
       'url': 'https://orlem-confo.github.io' ,
       'repo': 'https://github.com/Orlem-Confo/Orlem-Confo.github.io'
+    },
+    {
+     'Name': 'Deep Learning with PyTorch',
+     'Description': 'My notebooks from the 6 week certification course - Deep Learning with PyTorch (Zero to GANs)'
+     'Tech used': ['PyTorch', 'numpy', 'pandas', 'matplotlib', 'seaborn'],
+     'Target platforms': 'Jupyter Notebooks (.ipynb)',
+     'Status': 'Active',
+     'repo': 'https://github.com/sansqra/deep-learning-pytorch'
     },
     {
       'Name': 'Airtable Auto',
