@@ -65,7 +65,8 @@ Here's what I'm up to lately:
 - 🌱 I’m currently learning Tensor Calculus
 
 <hr>
-### Some of my friend's profiles you should check out
+## Some of my friend's profiles you should check out 
+<br>
 <a href="https://github.com/keane3pereira">Keane Pereira</a> <br>
 <a href="https://github.com/jaisal1311">Jaisal Shah</a>
 
