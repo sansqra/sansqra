@@ -80,7 +80,7 @@ Here's what I'm up to lately:
 <a href="https://www.linkedin.com/in/san-sequeira-3b366b1aa/">
     <img align="left" alt="San Sequeira | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
  </a>
-<a href="https://twitter.com/SanLukeSqra">
+<a href="https://twitter.com/sansqra">
     <img align="left" alt="San Sequeira | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
   </a>
   <a href="mailto:sanlukesqra@gmail.com">
