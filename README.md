@@ -64,7 +64,8 @@ You can find them here: <br>
 Here's what I'm up to lately:
 - 🌱 I’m currently learning Tensor Calculus
 
-<hr>
+<hr><br>
+
 ### Some of my friends' profiles you should check
 <br>
 <a href="https://github.com/keane3pereira">Keane Pereira</a> <br>
