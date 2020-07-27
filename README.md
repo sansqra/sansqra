@@ -37,7 +37,7 @@ KNOWLEDGE_BASE = {
     },
     {
      'Name': 'Deep Learning with PyTorch',
-     'Description': 'My notebooks from the 6 week certification course - Deep Learning with PyTorch (Zero to GANs)'
+     'Description': 'My notebooks from the 6 week certification course - Deep Learning with PyTorch (Zero to GANs) and more from my self-learning'
      'Tech used': ['PyTorch', 'numpy', 'pandas', 'matplotlib', 'seaborn'],
      'Target platforms': 'Jupyter Notebooks (.ipynb)',
      'Status': 'Active',
