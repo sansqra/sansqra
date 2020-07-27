@@ -67,7 +67,6 @@ Here's what I'm up to lately:
 <hr><br>
 
 ### Some of my friends' profiles you should check
-<br>
 <a href="https://github.com/keane3pereira">Keane Pereira</a> <br>
 <a href="https://github.com/jaisal1311">Jaisal Shah</a>
 
