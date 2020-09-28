@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a final year Computer Science undergad. Obsessed about all things Maths, AI 🤖, Philosophy.
+I'm a final year Computer Science undergad. Obsessed about all things AI 🤖
 
 I do spend my time writing code, reading reserach papers, and sometimes dreaming up ML architectures (but still a noob at all this). 
 
