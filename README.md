@@ -12,10 +12,10 @@ Besides that I've scattered myself in other things, like Maths, Physics and Phil
 
 ```
 KNOWLEDGE_BASE = {
- 'Languages': ['Python', 'Java', 'C++', 'C', 'Dart', 'Go', 'C#', ....more to come], 🤓
+ 'Languages': ['Python', 'Java', 'C++', 'C', 'Dart', 'Go', 'C#', 'JavaScript' ....more to come], 🤓
  
  'Frameworks & Libraries': [ 'Pytorch', 'Keras', 'Flask', 'Django', 'Flutter', 'Android',
-                            'Pandas', 'Numpy', 'Seaborn', 'Matplotlib',...more to come
+                            'Pandas', 'Numpy', 'Seaborn', 'Matplotlib', 'React', ...more to come
                            ],
  
  'Projects': [
@@ -56,21 +56,10 @@ KNOWLEDGE_BASE = {
 }
 ```
 
-I do have some learning resources on my profile(one is forked, the other is made by me). Mainly for Maths and Statistics, do check it out!
-You can find them here: <br>
-- <a href="https://github.com/sansqra/mathStatsResources">For IIT JAM MS</a> <br>
-- <a href="https://github.com/sansqra/awesome-math">Great Math Reads</a>
-
 Here's what I'm up to lately:
-- 🌱 I’m currently learning Tensor Calculus
+- 🌱 I’m currently learning Tensor Calculus & Category Theory
 
 <hr><br>
-
-### Some of my friends' profiles you should check
-<a href="https://github.com/keane3pereira">Keane Pereira</a> <br>
-<a href="https://github.com/jaisal1311">Jaisal Shah</a>
-
-<hr>
 
 ### My Blog
 ## <a href="https://linearlyspanned.wordpress.com/">Linearly Spanned</a> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
@@ -79,7 +68,7 @@ Here's what I'm up to lately:
 
 ![San Sequeira github stats](https://github-readme-stats.vercel.app/api?username=sansqra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=["prs"])
 
-### Let's connect to share ideas 🎉
+### Let's connect 🎉
 
 
 <a href="https://www.linkedin.com/in/san-sequeira-3b366b1aa/">
