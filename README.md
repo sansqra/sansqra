@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-I'm a final year Computer Science undergad. Obsessed about all things AI 🤖
+I'm a final year Computer Science undergad. Obsessed about all things AI 🤖, Math, and Philosophy ╰(*°▽°*)╯
 
-I do spend my time writing code, reading reserach papers, and sometimes dreaming up ML architectures (but still a noob at all this). 
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" size=190px>
 
@@ -37,7 +36,8 @@ KNOWLEDGE_BASE = {
     },
     {
      'Name': 'Deep Learning with PyTorch',
-     'Description': 'My notebooks from the 6 week certification course - Deep Learning with PyTorch (Zero to GANs) and more from my self-learning'
+     'Description': 'My notebooks from the 6 week certification course
+                     - Deep Learning with PyTorch (Zero to GANs) and more from my self-learning'
      'Tech used': ['PyTorch', 'numpy', 'pandas', 'matplotlib', 'seaborn'],
      'Target platforms': 'Jupyter Notebooks (.ipynb)',
      'Status': 'Active',
