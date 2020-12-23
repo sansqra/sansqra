@@ -9,55 +9,10 @@ Besides that I've scattered myself in other things, like Maths, Physics and Phil
 
 ⚡ Fun fact: I get very obsessive about the things that pique my interest
 
-```
-KNOWLEDGE_BASE = {
- 'Languages': ['Python', 'Java', 'C++', 'C', 'Dart', 'Go', 'C#', 'JavaScript' ....more to come], 🤓
- 
- 'Frameworks & Libraries': [ 'Pytorch', 'Keras', 'Flask', 'Django', 'Flutter', 'Android',
-                            'Pandas', 'Numpy', 'Seaborn', 'Matplotlib', 'React', ...more to come
-                           ],
- 
- 'Projects': [
-   {
-      'Name': 'OYW Scanner App'
-      'Description': 'Scans QR code tickets for OYW event'
-      'Tech used': ['Flutter', 'Flask'],
-      'Target platforms': ['Android', 'iOS', 'Linux server backend'],
-      'Status': 'Inactive'
-    },
-    {
-      'Name': 'Orlem Confo Website',
-      'Description': 'A sort of CMS for Confirmation for Our Lady of Lourdes Church'
-      'Tech used': ['HTML', 'CSS', 'Bootstrap', 'jQuery', 'JavaScript'],
-      'Target platforms': 'Platform independent',
-      'Status': 'Active',
-      'url': 'https://orlem-confo.github.io' ,
-      'repo': 'https://github.com/Orlem-Confo/Orlem-Confo.github.io'
-    },
-    {
-     'Name': 'Deep Learning with PyTorch',
-     'Description': 'My notebooks from the 6 week certification course
-                     - Deep Learning with PyTorch (Zero to GANs) and more from my self-learning'
-     'Tech used': ['PyTorch', 'numpy', 'pandas', 'matplotlib', 'seaborn'],
-     'Target platforms': 'Jupyter Notebooks (.ipynb)',
-     'Status': 'Active',
-     'repo': 'https://github.com/sansqra/deep-learning-pytorch'
-    },
-    {
-      'Name': 'Airtable Auto',
-      'Description': 'Orlem Confirmation worksheet automation'
-      'Tech used': ['Python', 'google-api', 'gmaill-api', 'pydrive3'],
-      'Target platforms': 'Platform independent (Provided python is installed)',
-      'Status': 'Active'
-      'url': 'https://orlem-confo.github.io',
-      'repo': 'https://github.com/Orlem-Confo/airtable-auto'
-    }
-  ]
-}
-```
 
-Here's what I'm up to lately:
+> Here's what I'm up to lately:
 - 🌱 I’m currently learning Tensor Calculus & Category Theory
+- Have also gotten interested in Type Theory and Haskell (Types and Programming Languages by Benjamin C. Pierce)
 
 <hr><br>
 
