@@ -61,10 +61,6 @@ Here's what I'm up to lately:
 
 <hr><br>
 
-### My Blog
-## <a href="https://linearlyspanned.wordpress.com/">Linearly Spanned</a> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
-
-<hr>
 
 ![San Sequeira github stats](https://github-readme-stats.vercel.app/api?username=sansqra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=["prs"])
 
