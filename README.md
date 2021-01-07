@@ -15,7 +15,7 @@ I'm a final year Computer Science undergad. Obsessed about all things AI 🤖, M
 
 <hr><br>
 <a href="https://github.com/TheDudeThatCode">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sansqrae&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sansqra&theme=dark&hide_langs_below=1" />
 </a>
 
 ![San Sequeira github stats](https://github-readme-stats.vercel.app/api?username=sansqra&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide=["prs"])
