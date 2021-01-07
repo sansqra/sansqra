@@ -5,7 +5,6 @@ I'm a final year Computer Science undergad. Obsessed about all things AI 🤖, M
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" size=190px>
 
-Besides that I've scattered myself in other things, like Maths, Physics and Philosophy, 😉 and would love to learn more and have conversations on that.
 
 ⚡ Fun fact: I get very obsessive about the things that pique my interest
 
@@ -23,8 +22,8 @@ Besides that I've scattered myself in other things, like Maths, Physics and Phil
 
 
 <a href="https://www.linkedin.com/in/san-sequeira-3b366b1aa/">
-    <img align="left" alt="San Sequeira | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
+    <img align="left" alt="San Sequeira | Linkedin" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
  </a>
   <a href="mailto:sanlukesqra@gmail.com">
-    <img align="left" alt="San Sequeira | Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+    <img align="left" alt="San Sequeira | Gmail" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
