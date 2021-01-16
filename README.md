@@ -1,6 +1,6 @@
 ### Hi there <img width="40px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" />
 
-I'm a final year Computer Science undergad. Obsessed about all things AI 🤖, Math, and Philosophy ╰(*°▽°*)╯
+I'm a final year Computer Science undergrad. Obsessed about all things AI 🤖, Math, and Philosophy ╰(*°▽°*)╯
 
 
 ⚡ Fun fact: I get very obsessive about the things that pique my interest
