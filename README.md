@@ -3,9 +3,6 @@
 I'm a final year Computer Science undergrad. Obsessed about all things AI 🤖, Math, and Philosophy ╰(*°▽°*)╯
 
 
-⚡ Fun fact: I get very obsessive about the things that pique my interest
-
-
 #### Here's what I'm up to lately:
 - 🌱 I’m currently learning Tensor Calculus & Category Theory
 - Have also gotten interested in Type Theory and Haskell
