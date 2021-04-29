@@ -1,13 +1,4 @@
-### Hi there <img width="40px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" />
-
-I'm a final year Computer Science undergrad. Obsessed about all things AI 🤖, Math, and Philosophy ╰(*°▽°*)╯
-
-
-#### Here's what I'm up to lately:
-- 🌱 I’m currently learning Tensor Calculus & Category Theory
-- Have also gotten interested in Type Theory and Haskell
-
-<hr><br>
+<img width="40px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" />
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="190px">
 
