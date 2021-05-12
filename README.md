@@ -3,7 +3,7 @@ Hi, I'm San Sequeira, a final year Computer Science Undergrad.
 <br>
 I mess with things in different disciplines, like Maths, Philosophy, Programming Languages, and in a very naive way, Category Theory.
 <br>
-
+<br>
 #### Here's what I'm learing lately:
 - Haskell
 - Rust
