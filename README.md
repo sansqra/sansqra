@@ -1,13 +1,13 @@
 <img width="40px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" />
-Hi, I'm San Sequeira, a final year Computer Science Undergrad.
+Hi, I'm San Sequeira, a Computer Science Undergrad.
 <br>
 I mess with things in different disciplines, like Maths, Philosophy, Programming Languages, and in a very naive way, Category Theory.
 <br>
-<br>
-#### Here's what I'm learing lately:
+
+### Here's what I'm learing lately:
 - Haskell
 - Rust
-- And trying to keep up with and understand Wolfram's Theory of Everything
+- Some Homotopy Type Theory (beginner)
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="190px">
 
