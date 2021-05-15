@@ -1,5 +1,5 @@
 <img width="40px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" />
-Hi, I'm San Sequeira, a Computer Science Undergrad.
+Hi, I'm San Sequeira, a Computer Science grad.
 <br>
 I mess with things in different disciplines, like Maths, Philosophy, Programming Languages, and in a very naive way, Category Theory.
 <br>
@@ -19,6 +19,6 @@ I mess with things in different disciplines, like Maths, Philosophy, Programming
 <a href="https://www.linkedin.com/in/san-sequeira-3b366b1aa/">
     <img align="left" alt="San Sequeira | Linkedin" width="33px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
  </a>
-  <a href="mailto:sanlukesqra@gmail.com">
+  <a href="mailto:sqrasan@gmail.com">
     <img align="left" alt="San Sequeira | Gmail" width="33px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
