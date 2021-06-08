@@ -7,7 +7,7 @@ I mess with things in different disciplines, like Maths, Philosophy, Programming
 ### Here's what I'm learing lately:
 - Haskell
 - Rust
-- Some Homotopy Type Theory (beginner)
+- Some Homotopy Type Theory
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="190px">
 
