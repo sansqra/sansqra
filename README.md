@@ -1,5 +1,5 @@
 <img width="40px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" />
-Hi, I'm San Sequeira, a Computer Science grad.
+Hi, I'm San Sequeira, currently a CS postgrad.
 <br>
 I mess with things in different disciplines, like Maths, Philosophy, Programming Languages, and Logic!
 <br>
