@@ -7,6 +7,7 @@ I mess with things in different disciplines, like Maths, Philosophy, Programming
 ### Here's what I'm learing lately:
 - Haskell
 - Rust
+- Abstract Algebra
 - Type Theory
 - Category Theory
 
