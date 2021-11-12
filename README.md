@@ -7,7 +7,6 @@ I mess with things in different disciplines, like Maths, Philosophy, Programming
 ### Here's what I'm learing lately:
 - Haskell
 - Rust
-- Abstract Algebra
 - Type Theory
 - Category Theory
 
@@ -22,6 +21,6 @@ I mess with things in different disciplines, like Maths, Philosophy, Programming
 <a href="https://www.linkedin.com/in/san-sequeira-3b366b1aa/">
     <img align="left" alt="San Sequeira | Linkedin" width="33px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
  </a>
-  <a href="mailto:sqrasan@gmail.com">
+  <a href="mailto:sanlukesqra@gmail.com">
     <img align="left" alt="San Sequeira | Gmail" width="33px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
   </a>
