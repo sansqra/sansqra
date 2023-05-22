@@ -3,7 +3,7 @@ Hi! I'm San Sequeira. <img width="40px" src="https://github.com/TheDudeThatCode/
 <br>
 
 #### About
-I've got Master's in Computer Science.
+I've got a Master's in Computer Science.
 
 <br>
 
