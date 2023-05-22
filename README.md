@@ -1,23 +1,44 @@
-<img width="40px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" />
-Hi, I'm San Sequeira, currently a CS postgrad.
-<br>
-I mess with things in different disciplines, like Maths, Philosophy, Programming Languages, and Logic!
+Hi! I'm San Sequeira. <img width="40px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/wave.gif" />
+
 <br>
 
-### Here's what I'm learing lately (not at the same time, and not in that order!):
-- Category Theory
+#### About
+I've got Master's in Computer Science.
+
+<br>
+
+#### Things I like dabbling in :
+ - Philosophy,
+ - Programming Languages and Compilers, 
+ - Logic,
+ - Kernels (the OS kind)
+ - Film Theory
+
+<br>
+
+#### Here's what I'm learning lately (not at the same time, and not in that order!) :
+- Category + Type Theory
 - Rust
-- Type Theory
 - Haskell
-- Fuzzy Logic
+- C/C++
 
+<br>
 
-### Let's connect 🎉
+#### What I'm building/designing <img width="45px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" /> :
+- A complete blogging framework (probably with some indexing for searching, and probably just for me)
 
+<br>
 
-<a href="https://www.linkedin.com/in/san-sequeira-3b366b1aa/">
-    <img align="left" alt="San Sequeira | Linkedin" width="33px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
- </a>
+#### You can find me on :
+
+<a href="https://twitter.com/sansqra">
+    <img align="left" alt="" width="33px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
+</a>
+
 <a href="mailto:sqrasan@gmail.com">
     <img align="left" alt="San Sequeira | Gmail" width="33px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
+</a>
+
+<a href="https://www.linkedin.com/in/san-sequeira-3b366b1aa/">
+    <img align="center" alt="San Sequeira | Linkedin" width="33px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a>
