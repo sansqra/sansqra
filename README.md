@@ -38,7 +38,3 @@ I've got a Master's in Computer Science.
 <a href="mailto:sqrasan@gmail.com">
     <img align="left" alt="San Sequeira | Gmail" width="33px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
 </a>
-
-<a href="https://www.linkedin.com/in/san-sequeira-3b366b1aa/">
-    <img align="center" alt="San Sequeira | Linkedin" width="33px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-</a>
