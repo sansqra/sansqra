@@ -12,15 +12,15 @@ I've got a Master's in Computer Science.
  - Programming Languages and Compilers, 
  - Logic,
  - Kernels (the OS kind)
- - Film Theory
+ - Films
 
 <br>
 
 #### Here's what I'm learning lately (not at the same time, and not in that order!) :
-- Category + Type Theory
-- Rust
+- Category + Type Theory + Logic
+- Rust (and C ofc)
 - Haskell
-- C/C++
+- OCaml
 
 <br>
 
