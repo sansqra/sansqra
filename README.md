@@ -16,16 +16,18 @@ I've got a Master's in Computer Science.
 
 <br>
 
-#### Here's what I'm learning lately (not at the same time, and not in that order!) :
+#### Here's what I'm Exploring lately (not at the same time, and not in that order!) :
 - Category + Type Theory + Logic
-- Rust (and C ofc)
+- Rust (and C/C++ ofc)
 - Haskell
 - OCaml
+- Model Checking
 
 <br>
 
-#### What I'm building/designing <img width="45px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" /> :
-- A complete blogging framework (probably with some indexing for searching, and probably just for me)
+#### What I'm intending to build/design <img width="45px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" /> :
+- A blog for my opinions about the many things that catch my attention
+- A site for navigating CS the way I would've liked it (slightly oritented more towards PLT and compilers)
 
 <br>
 
